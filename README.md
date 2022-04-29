@@ -1,0 +1,2 @@
+# qzone_login-data_crawler
+此脚本旨在实现无验证条件下的qq空间模拟登录与数据爬取
