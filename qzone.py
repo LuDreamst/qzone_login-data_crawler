@@ -26,7 +26,7 @@ driver.find_element(By.ID, 'u').send_keys('3511706170')
 time.sleep(2)
 driver.find_element(By.ID, 'p').clear()
 time.sleep(2)
-driver.find_element(By.ID, 'p').send_keys('200288..qi')
+driver.find_element(By.ID, 'p').send_keys('') # 此处键入密码
 time.sleep(5)
 driver.find_element(By.ID, 'login_button').click()
 time.sleep(5)
